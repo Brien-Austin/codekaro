@@ -1,0 +1,45 @@
+.your-profile{
+    width:600px;
+    height:325px;
+    border:1px solid rgb(204, 204, 204);
+    border-radius:14px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    
+    box-sizing: border-box;
+}   
+
+.your-profile h1{
+    padding: 5px 40px;
+
+    font-weight:600;
+   
+}
+
+.your-profile p{
+    padding: 5px 40px;
+    font-size:large;
+    color: rgb(104, 104, 104);
+    margin-bottom: 100px;
+   
+
+}
+.img-card {
+    display: inline-flex;
+    width: 60px;
+    height: 60px;
+    padding: 5px 40px;
+    border-radius: 50%;
+    margin-top: -80px;
+  
+}
+.seper{
+    margin-top: 10px;
+    border: 1px solid rgb(204, 204, 204);
+}
+.prof{
+    text-align: left;
+    color:#007bff;
+}
+
+
+
